@@ -8,6 +8,6 @@
   width: 100px;
   height: 100px;
   background-color: green;
-  border-radius: 100%;
+  border-radius: 30%;
   transition: all 2s;
 }
